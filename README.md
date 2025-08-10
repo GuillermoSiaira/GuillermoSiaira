@@ -19,3 +19,4 @@ I build automation and trading pipelines on Solana (Jupiter/Raydium), stream dat
 ### Links
 - **CV (docx)** → https://github.com/GuillermoSiaira/job-search-2025/blob/main/CV_Guillermo_Siaira.docx  
 - **LinkedIn** → (poné tu URL) · **GitHub** → https://github.com/GuillermoSiaira
+
