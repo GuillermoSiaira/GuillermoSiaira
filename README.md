@@ -20,3 +20,8 @@ I build automation and trading pipelines on Solana (Jupiter/Raydium), stream dat
 - **CV (docx)** → https://github.com/GuillermoSiaira/job-search-2025/blob/main/CV_Guillermo_Siaira.docx  
 - **LinkedIn** → (poné tu URL) · **GitHub** → https://github.com/GuillermoSiaira
 
+
+### Certifications
+- **Solidity Developer — ETH Kipu** · [Badge](https://openbadgefactory.com/v1/assertion/50bd5f37fbf423eb0dd8d2958eef9cf84830cfd7)
+- **Standards, Libraries & Patterns — Talento Tech & FTH Kipu** · [Badge](https://openbadgefactory.com/v1/assertion/43e4f81840e1ee54898229c044b27cf0d60d829e)
+- **Foundations of Solidity — Talento Tech & FTH Kipu** · [Badge](https://openbadgefactory.com/v1/assertion/d8f5063700deef40fb16c28e10dc98ae1e7b2602)
